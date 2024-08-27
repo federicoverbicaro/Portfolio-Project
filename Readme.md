@@ -4,6 +4,13 @@ Questo repository contiene una raccolta dei miei progetti principali e degli ese
 
 ## Progetti Principali
 
+### Voyage Book
+👉🏼 Link: https://github.com/federicoverbicaro/travel-app
+- Voyage Book è una piattaforma web per organizzare e documentare i tuoi viaggi. Permette di salvare e gestire viaggi, tappe, foto e note. Utilizza Laravel e Tailwind CSS per un'esperienza utente moderna e fluida. La guida integrata aiuta gli utenti a navigare facilmente, mentre il sistema è progettato per evolversi con il tempo grazie ai feedback.
+
+
+
+
 ### Pokemon Api 
 👉🏼 Link: https://github.com/federicoverbicaro/PokemonApi.git
 - Pokédex interattivo sviluppato utilizzando JavaScript plain, HTMl e CSS. Per rendere il tutto   più interessante e dinamico, ho integrato una chiamata API,Una delle caratteristiche principali di questo progetto è la possibilità per gli utenti di avere un Pokédex personalizzato. Utilizzando la tecnologia di localStorage.
