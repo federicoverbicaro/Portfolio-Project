@@ -3,12 +3,14 @@
 Questo repository contiene una raccolta dei miei progetti principali e degli esercizi svolti durante il corso. Qui troverete una varietà di progetti che ho completato, insieme a brevi descrizioni che illustrano le tecnologie utilizzate e gli obiettivi raggiunti. Spero che questo portfolio possa fornire una panoramica del mio lavoro e delle mie competenze nel campo della programmazione.
 
 ## Progetti Principali
+### To-do-List
+👉🏼 Link: https://github.com/federicoverbicaro/To-do-List
+- Questo piccolo progetto è stato realizzato per fare pratica con il framework Vue.js e l'utilizzo di LocalStorage. Come potete notare, a livello di stile non c'è molto, poiché l'obiettivo principale era concentrato sulla funzionalità e sulla logica di
+L'applicazione permette di aggiungere e rimuovere colonne e attività, e tutti i dati vengono salvati in LocalStorage, in modo da essere recuperati anche dopo
 
 ### Voyage Book
 👉🏼 Link: https://github.com/federicoverbicaro/travel-app
 - Voyage Book è una piattaforma web per organizzare e documentare i tuoi viaggi. Permette di salvare e gestire viaggi, tappe, foto e note. Utilizza Laravel e Tailwind CSS per un'esperienza utente moderna e fluida. La guida integrata aiuta gli utenti a navigare facilmente, mentre il sistema è progettato per evolversi con il tempo grazie ai feedback.
-
-
 
 
 ### Pokemon Api 
