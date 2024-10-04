@@ -3,6 +3,12 @@
 Questo repository contiene una raccolta dei miei progetti principali e degli esercizi svolti durante il corso. Qui troverete una varietà di progetti che ho completato, insieme a brevi descrizioni che illustrano le tecnologie utilizzate e gli obiettivi raggiunti. Spero che questo portfolio possa fornire una panoramica del mio lavoro e delle mie competenze nel campo della programmazione.
 
 ## Progetti Principali
+
+### Time Pomodoro
+👉🏼 Link: https://github.com/federicoverbicaro/Timer-Pomodoro
+- Ho ricreato il famoso timer Pomodoro per lo studio utilizzando Vue.js e setInterval. Ho impostato i timer a un secondo per mostrare chiaramente il funzionamento del countdown.
+L'obiettivo principale era divertirmi mentre implementavo un sistema di timeout che rappresentasse il metodo Pomodoro. Non mi sono concentrato molto sullo styling, ma ho imparato la gestione del tempo e delle funzioni in JavaScript.
+
 ### To-do-List
 👉🏼 Link: https://github.com/federicoverbicaro/To-do-List
 - Questo piccolo progetto è stato realizzato per fare pratica con il framework Vue.js e l'utilizzo di LocalStorage. Come potete notare, a livello di stile non c'è molto, poiché l'obiettivo principale era concentrato sulla funzionalità e sulla logica di
